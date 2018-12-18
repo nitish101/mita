@@ -1,0 +1,20 @@
+body{
+    background: whitesmoke url("images/O5GLLH0.jpg");
+   background-size: 100% ;
+
+}
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand {
+    font-family: 'Permanent Marker', cursive;
+}
+.trail { /* className for the trail elements */
+    position: absolute;
+    height: 6px; width: 6px;
+    border-radius: 3px;
+    background: crimson;
+  }
+
